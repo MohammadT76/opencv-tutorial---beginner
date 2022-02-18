@@ -1,0 +1,2 @@
+1 - this is a good tutorial for learning opencv :
+https://opencv-python-tutorials.readthedocs.io/zh/latest/
